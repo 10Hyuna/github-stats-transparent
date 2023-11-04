@@ -10,8 +10,8 @@ svg {
 #background {
   width: calc(100% - 1px);
   height: calc(100% - 1px);
-  fill: #00000000;
-  stroke: #76839022;
+  fill: #20232a;
+  stroke: #00000000;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
