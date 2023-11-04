@@ -55,10 +55,10 @@ tr {
 
 .label {
   font-weight: 600;
-  color: #768390;
+  color: #6495ED;
 }
 .octicon {
-  fill: #768390;
+  fill: #6495ED;
   margin-right: 1ch;
   vertical-align: top;
 }
